@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyUniverseAndroidTest</string>
+    <string name="hint_state">Type State Name here...</string>
+</resources>
